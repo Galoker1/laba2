@@ -41,6 +41,9 @@ body{
   font-size: 20px;
 
 }
+.small::placeholder{
+  color: white;
+}
 .form{
   margin-top: 10px;
   background-color:#ed0000;
@@ -63,6 +66,9 @@ body{
   font-size: 20px;
   resize: none;
 
+}
+.big::placeholder{
+  color: white;
 }
 .but{
   margin-top: 20px;
