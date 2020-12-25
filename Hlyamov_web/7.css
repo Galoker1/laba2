@@ -1,0 +1,18 @@
+button{
+background-color: red;
+
+}
+#one{
+  font-size: 30px;
+
+}
+
+#checko+#colorz{
+
+color: red;
+}
+
+ #checko:checked +#colorz{
+   color: green;
+
+}
